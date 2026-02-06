@@ -1,4 +1,4 @@
-# Occam Furtle
+# Occam Visceral
 
 [Occam](https://github.com/djalbat/occam)'s Visceral language.
 
