@@ -1,7 +1,7 @@
 {
   "name": "occam-visceral",
   "author": "James Smith",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "license": "MIT, Anti-996",
   "homepage": "https://github.com/djalbat/occam-visceral",
   "description": "Occam's Visceral language.",
@@ -23,7 +23,7 @@
     "esbuild": "0.11.14",
     "express": "^4.17.1",
     "juxtapose": "^4.0.130",
-    "lively-cli": "^2.0.77",
+    "lively-cli": "^2.0.98",
     "watchful-cli": "^1.7.84"
   },
   "scripts": {
